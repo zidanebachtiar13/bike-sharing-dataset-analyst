@@ -11,6 +11,6 @@ jupyter-notebook
 streamlit run dashboard/dashboard.py
 ```
 
-## Streamlit Online Version
+## Streamlit online version
 
 https://bike-sharing-dataset-analyst.streamlit.app/
