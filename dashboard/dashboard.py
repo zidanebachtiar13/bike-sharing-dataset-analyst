@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 
-day = pd.read_csv('../data/day.csv')
-hour = pd.read_csv('../data/hour.csv')
+day = pd.read_csv('day.csv')
+hour = pd.read_csv('hour.csv')
 
 st.header('Analisis Data Bike Sharing Dataset')
 
